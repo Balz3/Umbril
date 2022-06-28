@@ -11,12 +11,12 @@ public final class Main extends JavaPlugin {
     public void onEnable() {
         instance = this;
         new RollCommand();
-        System.out.println("TicTacToe is loading up!");
+        System.out.println("UmbrilEssentials is loading up!");
     }
 
     @Override
     public void onDisable() {
-        System.out.println("TicTacToe is shutting down!");
+        System.out.println("UmbrilEssentials is shutting down!");
     }
 
     public static Main getInstance(){
