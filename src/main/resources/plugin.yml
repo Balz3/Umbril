@@ -1,6 +1,5 @@
 name: UmbrilEssentials
-version: '${project.version}'
+version: 1.18.1
 main: com.balz3.umbrilessentials.Main
-api-version: 1.19
 authors: [ Balz3 ]
 description: Essentials plugin for Umbril RP
